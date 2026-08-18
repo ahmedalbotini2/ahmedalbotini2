@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Ahmed Al-Botini" width="100%">
+ <img
+    src="./asset/banner.jpg"
+    alt="Ahmed Al-Botini"
+    width="100%"
+    height="500"
+    style="object-fit: cover;"
+  />
 </p>
 <h1 align="center">Ahmed Al-Botini</h1>
 
-<h3 align="center"> Flutter Developer • Android Native • AI & Machine Learning • Backend & Networking </h3>
+<h3 align="center"> Flutter Developer • Android Native • Networking </h3>
 
 <p align="center">   <a href="https://github.com/ahmedalbotini2">     <img src="https://komarev.com/ghpvc/?username=ahmedalbotini2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>   </a>   <a href="https://github.com/ahmedalbotini2?tab=followers">     <img src="https://img.shields.io/github/followers/ahmedalbotini2?label=Followers&style=flat" alt="GitHub Followers"/>   </a> </p>
 
