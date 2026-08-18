@@ -1,6 +1,6 @@
 <p align="center">
  <img
-    src="./asset/banner.jpg"
+    src="./asset/github-banner.png"
     alt="Ahmed Al-Botini"
     width="100%"
     height="500"
