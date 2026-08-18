@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Ahmed Al-Botini" width="100%">
+</p>
 <h1 align="center">Ahmed Al-Botini</h1>
 
 <h3 align="center"> Flutter Developer • Android Native • AI & Machine Learning • Backend & Networking </h3>
